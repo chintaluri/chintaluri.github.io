@@ -1,15 +1,21 @@
 ---
-title: "Paper Title Number 1"
+title: "First Report of Impatiens Necrotic Spot Virus on Hiemalis Begonia (Begonia x hiemalis) in Canada"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2013-02-01
+excerpt: 'This paper describes the report of identifying Impatines necrotic spot virus(INSV) in Hiemalis Begonia. My contribution involved performing RNA isolation of infected plants followed by RT-PCR using INSV specific primers to confirm viral infection. This is the first report of the spread of INSV infection in Begonia x hiemalis in Canada'
+date: 2013-02-01
+venue: 'Plant Disease Journal'
+paperurl:
+Overview: 'This paper describes the report of identifying Impatines necrotic spot virus(INSV) in Hiemalis Begonia. My contribution involved performing RNA isolation of infected plants followed by RT-PCR using INSV specific primers to confirm viral infection. This is the first report of the spread of INSV infection in Begonia x hiemalis in Canada'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Recommended citation:
+---
+X. Tian, Y. Zheng, K. Chintaluri, and B. Meng. First Report of Impatiens necrotic spot virus on Hiemalis Begonia (Begonia × hiemalis) in Canada. Plant Disease 2013 97(2). https://doi.org/10.1094/PDIS-09-12-0868-PDN
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Abstract:
+---
+Impatiens necrotic spot virus (INSV) is a member of the genus Tospovirus, and one of the prevalent viruses infecting ornamental plants, including begonia. Since the late 1980s, it has caused dramatic and unusual diseases on many flower crops, leading to considerable economic losses to the greenhouse floriculture industry (1). The western flower thrips, Frankliniella occidentalis (Pergande), is the only species currently known to vector INSV (1). In spring 2012, stunted plant growth and necrotic spots were observed on leaves of all Hiemalis begonias (Begonia × hiemalis Fotsch.) in a greenhouse in southwest Ontario, Canada. Initial symptoms were mosaic patterns, followed by necrotic spots on leaves, concentric rings, then necrotic areas on flowers, stem and vein necrosis, and finally stunting and burning of foliage similar to damage caused by sunburn or chemical injury. Thrips were observed colonizing nearby begonia plants. Leaf tissue from five symptomatic plants tested positive for INSV in a double-antibody sandwich (DAS)-ELISA with INSV-specific ImmunoStrips (Agdia Inc., Elkhart, IN). To confirm this, five of the leaf samples that were found to be positive for INSV in ELISA tests were mechanically inoculated to 10 plants of Hiemalis Begonia. Out of the 10 inoculated plants, eight produced necrotic local lesions and necrotic spots that are typical of INSV infection, followed by systemic infection of upper leaves 30 days after inoculation. The presence of INSV in the eight symptomatic plants was confirmed using the commercial INSV Pocket Diagnostic Kit (Forsite Diagnostics Ltd., York, UK) according to the manufacturer's instructions. Results showed that all eight symptomatic plants were positive for INSV. The other two plants were asymptomatic and tested negative for INSV. To further confirm the identity of this virus, total RNAs were isolated from symptomatic leave of begonia plants using TRIzol reagent (Invitrogen, Life Technologies Grand Island, NY) and amplified using reverse transcription (RT)-PCR analysis. A pair of primers was designed based on the consensus sequence of the N gene for a number of isolates retrieved from GenBank. These primers were INSV-F2286 (5′CCAAGCTCAACATGTTTAGC 3′, nt positions 2286 to 2305 of AB109100) and INSV-R2604 (5′ACTGCATCTTGCCTATCCTT 3′, nt positions 2664 to 2683 of AB109100). The expected amplification product of 398 bp was obtained, and was cloned into the vector pGEM-T Easy (Promega Corp., Madison, WI). Two clones were sequenced using the vector primer M13Forward. The sequences of these two clones were identical and the sequence was deposited in GenBank (Accession No. JX846907). BLAST analysis indicated that the sequence was 98 to 99% identical to INSV isolates from Japan (AB109100), the United States (D00914), and the Netherlands (X66972). To our knowledge, this is the first report of INSV infection in Begonia × hiemalis in Canada. This finding provides further evidence for the spread of the virus within North America. Further studies are required to determine the impact of INSV on the begonia industry in Canada and to determine viable management strategies, if necessary.
+
+Access the publication [here](https://doi.org/10.1094/PDIS-09-12-0868-PDN)
