@@ -9,7 +9,8 @@ paperurl:
 Overview:'This is a master's dissertation of my work looking at the characterization of Toxoplasma gondii PH-containing protein-1 (TgPH1) which serves as an ectopic reporter of phosphatidylinositol 3-phosphate in mammalian cells'
 
 ---
-
+Recommended citation:
+---
 
 Abstract:
 ---
