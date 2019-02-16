@@ -3,7 +3,7 @@ title: "The PH domain from the Toxoplasma gondii PH-containing protein-1 (TgPH1)
 collection: publications
 permalink: /publication/2017-masters-thesis
 excerpt: 'This is my masters dissertation of my work looking at the characterization of Toxoplasma gondii PH-containing protein-1 (TgPH1) which serves as an ectopic reporter of phosphatidylinositol 3-phosphate in mammalian cells' 
-date: 2018-10-01
+date: 2017-10-01
 venue: 'Ryerson University Library Digital Repository'
 paperurl: 
 Overview: 'This is my masters dissertation of my work looking at the characterization of Toxoplasma gondii PH-containing protein-1 (TgPH1) which serves as an ectopic reporter of phosphatidylinositol 3-phosphate in mammalian cells'
