@@ -12,7 +12,7 @@ Overview: 'This paper describes the report of identifying Impatines necrotic spo
 
 Recommended citation:
 ---
-X. Tian, Y. Zheng, K. Chintaluri, and B. Meng. First Report of Impatiens necrotic spot virus on Hiemalis Begonia (Begonia × hiemalis) in Canada. Plant Disease 2013 97(2). https://doi.org/10.1094/PDIS-09-12-0868-PDN
+X. Tian, Y. Zheng, K. Chintaluri, and B. Meng (2013). First Report of Impatiens necrotic spot virus on Hiemalis Begonia (Begonia × hiemalis) in Canada. Plant Disease 97(2). https://doi.org/10.1094/PDIS-09-12-0868-PDN
 
 Abstract:
 ---
