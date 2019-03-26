@@ -81,9 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Krishna Chintaluri"
+  
   avatar           : "index.png"
   bio              : "Molecular Biologist"
   location         : "Toronto"
+  website          : "http://biotechbites.com/"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=iX6YpvUAAAAJ&hl=en"
   email            : "krishna.chintaluri@gmail.com"
@@ -100,7 +102,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chintaluri/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -113,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  website          : "http://biotechbites.com"
 
 
 # Reading Files
