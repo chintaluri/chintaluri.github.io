@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Krishna Chintaluri"
-  avatar           : "profile.png"
+  avatar           : "index.png"
   bio              : "Molecular Biologist"
   location         : "Toronto"
   employer         :
@@ -113,6 +113,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  website          : "http://biotechbites.com"
 
 
 # Reading Files
