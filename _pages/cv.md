@@ -18,6 +18,13 @@ an ectopic reporter of phosphatidylinositol 3-phosphate in mammalian cells "
 
 Work experience
 ======
+* Research Associate (Xtal Biostructures Inc.),Apr 2019 – Present Natick, MA, U.S.A.
+  * Purified several proteins for clients using FPLCs (Biorad Biologic LPs and AKTA)
+  * Performed thermal shift assay(DSF) including the completion of a project with 1700 compounds 
+  * Utilized SPR for clients in order to identify molecules with desirable binding parameters
+  * Assisted crystallographers in setting up trays for X-ray crystallography
+* Private Tutor, Aug 2018 – Dec 2018, Toronto, Canada
+  *	Provided homework help and tutoring to Grade 11 and 12 students in Physics and Math 
 * Feb 2018 - Apr 2018: Technician, Botelho Lab, Ryerson University
   * Cataloged existing chemicals and inventory into a new ordering system (Quartzy) to maximize
 efficiency and productivity in two months
