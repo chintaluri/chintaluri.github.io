@@ -1,6 +1,6 @@
 ---
 title: "Holder for Swiss Army Knife"
-excerpt: "This is just a quick mockup I made for a plastic clip on holder for the huntsman swiss army knife <br/><img src='/images/Swiss Army Knife Huntsman Medium Holster v4.png'>"<br/><img src='/images/Swiss Army Knife Huntsman Medium Holster v4 Clip.png'>"
+excerpt: "This is just a quick mockup I made for a plastic clip on holder for the huntsman swiss army knife <br/><img src='/images/Swiss Army Knife Huntsman Medium Holster v4.png'>
 collection: portfolio
 ---
 
