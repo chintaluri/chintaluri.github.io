@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "iPhone X Case with Toronto Raptors logo "
+excerpt: "This is just a quick iPhone case I made using Autodesk Fusion 360 <br/><img src='/images/iPhone X Case 2 v3.png'>"
 collection: portfolio
 ---
 
