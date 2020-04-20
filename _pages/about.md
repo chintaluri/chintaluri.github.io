@@ -16,5 +16,5 @@ Broadly speaking, I am interested in contributing to discovery research, towards
 
 I am also interested in programming, hobby electronics, art/design and CAD and I hope to have those projects for you to see in the future. 
 
-I also have a [website](http://biotechbites.com/) where I try to inform the general audience on new discoveries in biotechnology, bioengineering, and synthetic biology. 
+
 
